@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Lato", sans-serif;
+}
+h1, h2 {
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.box--star {
+    margin: 20px;
+}
